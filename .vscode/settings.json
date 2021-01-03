@@ -1,0 +1,13 @@
+{
+    "dart.devToolsBrowser": "default",
+    "php.validate.enable": false,
+    "php.suggest.basic": false,
+    "dart.triggerSignatureHelpAutomatically": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": true,
+    "dart.previewHotReloadOnSaveWatcher": true,
+
+    
+}
